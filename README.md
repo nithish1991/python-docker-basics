@@ -1,0 +1,1 @@
+This is python based docker implementation will provide the best pratice of how the docker can be used in real world scenario and this are obtain from the offical docker documnetation page : https://docs.docker.com/guides/python/ 
